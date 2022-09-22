@@ -1,6 +1,4 @@
-# asic_sta_OpenTimer
-
-# sta_opentimer:
+# sta_OpenTimer:
 ### Using Opentimer for timing analysis:
 
 
